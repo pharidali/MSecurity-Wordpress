@@ -45,12 +45,6 @@ Installation
            └── templates/
                └── admin-settings.php
 
-A comprehensive security plugin for MSecurity Partners to sell antivirus products through WooCommerce.
-
-== Description ==
-
-MSecurity is a comprehensive security plugin designed for MSecurity Partners who want to sell antivirus products through their WooCommerce-enabled WordPress websites. The plugin integrates with the MSecurity API to allow partners to import products, display balance, and manage licenses directly from the WordPress admin panel.
-
 3. **Upload Plugin(Alternative)**
   
    - Upload the plugin files to the `/wp-content/plugins/msecurity` directory, or install the plugin through the WordPress plugins screen directly.
@@ -85,10 +79,6 @@ Usage
    - Upon successful payment, the product will be automatically set up, and the license will be purchased from MSecurity.
    - The license key will be displayed on the user's order page under Order Details.
 
-Video Tutorial
---------------
-
-For a video tutorial on how to import products automatically, please watch [this video](https://msecurity.app/download/whmcs1.mp4).
 
 Get Partner Account (Developer)
 -------------------------------
