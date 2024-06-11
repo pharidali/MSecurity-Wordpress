@@ -45,13 +45,27 @@ Installation
            └── templates/
                └── admin-settings.php
 
-3. **Activate the Plugin**
+A comprehensive security plugin for MSecurity Partners to sell antivirus products through WooCommerce.
+
+== Description ==
+
+MSecurity is a comprehensive security plugin designed for MSecurity Partners who want to sell antivirus products through their WooCommerce-enabled WordPress websites. The plugin integrates with the MSecurity API to allow partners to import products, display balance, and manage licenses directly from the WordPress admin panel.
+
+3. **Upload Plugin(Alternative)**
+  
+   - Upload the plugin files to the `/wp-content/plugins/msecurity` directory, or install the plugin through the WordPress plugins screen directly.
+   - Activate the plugin through the 'Plugins' screen in WordPress.
+   - Make sure you have WooCommerce installed and activated.
+   - Use the Settings -> MSecurity screen to configure the plugin.
+
+
+4. **Activate the Plugin**
 
    - Log in to your WordPress admin area.
    - Navigate to Plugins > Installed Plugins.
    - Find MSecurity and click the Activate button.
 
-4. **Configure the Plugin**
+5. **Configure the Plugin**
 
    - Navigate to MSecurity > Settings.
    - Enter your X-API-SECRET-KEY, X-API-PUBLIC-KEY, and Commission Percentage.
