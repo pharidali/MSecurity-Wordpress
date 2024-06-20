@@ -61,7 +61,7 @@ Installation
 
 5. **Configure the Plugin**
 
-   - Navigate to MSecurity > Settings.
+   - Navigate to Settings  > MSecurity.
    - Enter your X-API-SECRET-KEY, X-API-PUBLIC-KEY, and Commission Percentage.
    - Click Save Changes.
 
